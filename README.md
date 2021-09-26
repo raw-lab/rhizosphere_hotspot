@@ -13,6 +13,7 @@ This repo holds scripts to process data and build graphs. Outputs, results, and 
 
 Data
 
-The informatics point-of-contact for this project is Dr. Richard Allen White III.
-If you have any questions or feedback, please feel free to get in touch by email. Dr. Richard Allen White III - raw937@gmail.com or rwhit101@uncc.edu
+The informatics point-of-contact for this project is Dr. Richard Allen White III. <br>
+If you have any questions or feedback, please feel free to get in touch by email. <br>
+Dr. Richard Allen White III - raw937@gmail.com or rwhit101@uncc.edu
 Or open an issue.
