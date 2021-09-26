@@ -5,7 +5,7 @@ Manuscript is currently in submission
 
 This is the code and analysis for this article.
 
-Journal Article is: Richard Allen White III, Joshua Rosnow, Paul Piehowski, Colin J. Brislawn, James J Moran. *In situ* non-destructive temporal measurements of the rhizosphere microbiome ‘hot-spots,’ using metaproteomics
+Journal Article is: Richard Allen White III, Joshua Rosnow, Paul Piehowski, Colin J. Brislawn, James J Moran. *In situ* non-destructive temporal measurements of the rhizosphere microbiome ‘hot-spots,’ using metaproteomics.
 
 Analysis
 
@@ -15,5 +15,5 @@ Data
 
 The informatics point-of-contact for this project is Dr. Richard Allen White III. <br>
 If you have any questions or feedback, please feel free to get in touch by email. <br>
-Dr. Richard Allen White III - raw937@gmail.com or rwhit101@uncc.edu
+Dr. Richard Allen White III - raw937@gmail.com 
 Or open an issue.
